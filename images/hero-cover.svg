@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="98.164%">
+            <stop offset="0%" stop-color="#4A00D2"/>
+            <stop offset="100%" stop-color="#700CFF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="nonzero">
+        <path fill="url(#a)" d="M0 0h1440v900H0z"/>
+        <g fill="#FFF" opacity=".6" transform="translate(83 33)">
+            <circle cx="43" cy="403" r="3" fill-opacity=".8"/>
+            <circle cx="131" cy="523" r="3" fill-opacity=".8"/>
+            <circle cx="283" cy="523" r="3" fill-opacity=".8"/>
+            <circle cx="259" cy="235" r="3" fill-opacity=".8"/>
+            <circle cx="395" cy="67" r="3" fill-opacity=".8"/>
+            <circle cx="515" cy="139" r="3" fill-opacity=".8"/>
+            <circle cx="779" cy="163" r="3" fill-opacity=".8"/>
+            <circle cx="779" cy="3" r="3" fill-opacity=".8"/>
+            <circle cx="955" cy="147" r="3" fill-opacity=".8"/>
+            <circle cx="1115" cy="235" r="3" fill-opacity=".8"/>
+            <circle cx="1051" cy="363" r="3" fill-opacity=".8"/>
+            <circle cx="915" cy="459" r="3" fill-opacity=".8"/>
+            <circle cx="1051" cy="523" r="3" fill-opacity=".8"/>
+            <circle cx="1147" cy="643" r="3" fill-opacity=".8"/>
+            <circle cx="1267" cy="691" r="3" fill-opacity=".8"/>
+            <circle cx="1243" cy="539" r="3" fill-opacity=".8"/>
+            <circle cx="1163" cy="427" r="3" fill-opacity=".8"/>
+            <circle cx="1211" cy="299" r="3" fill-opacity=".8"/>
+            <circle cx="1251" cy="171" r="3" fill-opacity=".8"/>
+            <circle cx="1235" cy="27" r="3" fill-opacity=".8"/>
+            <circle cx="1229" cy="125" r="5" fill-opacity=".8"/>
+            <circle cx="1149" cy="405" r="5" fill-opacity=".8"/>
+            <circle cx="989" cy="173" r="5" fill-opacity=".6"/>
+            <circle cx="357" cy="157" r="5" fill-opacity=".6"/>
+            <circle cx="61" cy="101" r="5" fill-opacity=".6"/>
+            <circle cx="5" cy="277" r="5" fill-opacity=".6"/>
+            <circle cx="125" cy="421" r="5" fill-opacity=".6"/>
+            <circle cx="29" cy="653" r="5" fill-opacity=".6"/>
+            <circle cx="66" cy="650" r="2" fill-opacity=".4"/>
+            <circle cx="34" cy="602" r="2" fill-opacity=".4"/>
+            <circle cx="114" cy="538" r="2" fill-opacity=".4"/>
+            <circle cx="114" cy="466" r="2" fill-opacity=".4"/>
+            <circle cx="26" cy="474" r="2" fill-opacity=".4"/>
+            <circle cx="26" cy="418" r="2" fill-opacity=".4"/>
+            <circle cx="26" cy="314" r="2" fill-opacity=".4"/>
+            <circle cx="82" cy="314" r="2" fill-opacity=".4"/>
+            <circle cx="50" cy="130" r="2" fill-opacity=".4"/>
+            <circle cx="106" cy="202" r="2" fill-opacity=".4"/>
+            <circle cx="242" cy="210" r="2" fill-opacity=".4"/>
+            <circle cx="322" cy="186" r="2" fill-opacity=".4"/>
+            <circle cx="322" cy="186" r="2" fill-opacity=".4"/>
+            <circle cx="450" cy="90" r="2" fill-opacity=".4"/>
+            <circle cx="514" cy="18" r="2" fill-opacity=".4"/>
+            <circle cx="762" cy="18" r="2" fill-opacity=".4"/>
+            <circle cx="946" cy="178" r="2" fill-opacity=".4"/>
+            <circle cx="1098" cy="258" r="2" fill-opacity=".4"/>
+            <circle cx="1138" cy="250" r="2" fill-opacity=".4"/>
+            <circle cx="1138" cy="282" r="2" fill-opacity=".4"/>
+            <circle cx="1138" cy="282" r="2" fill-opacity=".4"/>
+            <circle cx="1234" cy="306" r="2" fill-opacity=".4"/>
+            <circle cx="1234" cy="185" r="2" fill-opacity=".4"/>
+            <circle cx="1194" cy="121" r="2" fill-opacity=".4"/>
+            <circle cx="1218" cy="17" r="2" fill-opacity=".4"/>
+            <circle cx="1162" cy="177" r="2" fill-opacity=".4"/>
+            <circle cx="1178" cy="401" r="2" fill-opacity=".4"/>
+            <circle cx="1210" cy="545" r="2" fill-opacity=".4"/>
+            <circle cx="1210" cy="609" r="2" fill-opacity=".4"/>
+            <circle cx="1258" cy="585" r="2" fill-opacity=".4"/>
+            <circle cx="1250" cy="665" r="2" fill-opacity=".4"/>
+            <circle cx="1122" cy="673" r="2" fill-opacity=".4"/>
+            <circle cx="1058" cy="561" r="2" fill-opacity=".4"/>
+            <circle cx="930" cy="481" r="2" fill-opacity=".4"/>
+        </g>
+    </g>
+</svg>
